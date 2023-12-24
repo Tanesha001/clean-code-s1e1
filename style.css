@@ -36,7 +36,7 @@ button {
     font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
   .header { 
     text-align: center;
   }
@@ -158,14 +158,14 @@ button {
 
 /* Edit Task */
 .tasks-list .task-input {
-    display:none
+    display: none
 }
 
 .tasks-list.edit-mode .task-input {
-    display:inline-block;
-    width:224px
+    display: inline-block;
+    width: 224px
 }
 
 .tasks-list.edit-mode .task-label {
-    display:none;
+    display: none;
 }
